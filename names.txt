@@ -2,4 +2,4 @@
 # 2. Save the file
 # 3. Add it to the staging area (`git add names.txt`)
 # 4. Commit your changes with a simple message such as "Added <your_name>"
-# 5. jacklibb
+jaclibb
