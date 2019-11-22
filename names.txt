@@ -3,5 +3,9 @@
 # 3. Add it to the sta
 # 4. Commit your changes with a simple message such as "Added <your_name>"
 jacklibb
-Mikerégoire
+Mike
+Grégoire
+Simran
+Mike2
+mike3
 Laila
